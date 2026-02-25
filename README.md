@@ -1,12 +1,10 @@
-# Hi 👋, I'm Wuedmo
-
-### .NET Fullstack vs CyberSecurity Specialist 
+### .NET Fullstack vs CyberSecurity OSINT Detective
 
 - 🌱 I'm currently learning **CyberSecurity, .NET, Self-Hosting**
 
-- 👯 I'm looking to collaborate on **scripts and AI**
+- 👯 I'm looking to collaborate on **OSINT, scripts and AI**
 
-- 📫 How to reach me **Anywhere**
+- 📫 How to reach me **Anywhere, or i will reach you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
