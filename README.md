@@ -4,7 +4,7 @@
 
 - 👯 I'm looking to collaborate on **OSINT, scripts and AI**
 
-- 📫 How to reach me **Anywhere, or i will reach you**
+- 📫 How to reach me **Anywhere**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
