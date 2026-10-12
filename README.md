@@ -1,6 +1,6 @@
 ### .NET Fullstack vs CyberSecurity OSINT Detective
 
-- 🌱 I'm currently learning **CyberSecurity, .NET, Self-Hosting**
+- 🌱 **CyberSecurity, .NET, Self-Hosting**
 
 - 👯 I'm looking to collaborate on **OSINT, scripts and AI**
 
