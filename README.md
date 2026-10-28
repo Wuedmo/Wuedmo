@@ -2,6 +2,8 @@
 
 - 🌱 **CyberSecurity, .NET, Self-Hosting**
 
+- 🔐 My CyberSecurity workspace: [**wildsec**](https://github.com/wildsec)
+
 - 👯 I'm looking to collaborate on **OSINT, scripts and AI**
 
 - 📫 How to reach me **Anywhere**
